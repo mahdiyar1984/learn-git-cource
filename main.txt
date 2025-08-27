@@ -3,3 +3,4 @@ line2: edited
 line3: edited () changed
 line4: edited
 line5: edited
+line6: edited () changed
